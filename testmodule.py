@@ -12,6 +12,9 @@ import numpy as np
 from numpy import sin, cos, pi, exp
 from mayavi import mlab
 
+you = 2
+if you is 2:
+    print 'ok'
 
 if __name__ == '__main__':
     pass
